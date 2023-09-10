@@ -22,7 +22,7 @@ It allows users to perform basic arithmetic operations such as addition, subtrac
 3-Select an operation (+, -, *, %).
 4-Input another number.
 5-Press the "=" button to calculate the result.
-6-Press the "C" button to clear the input.
+6-Press the "AC" button to clear the input.
 
 
 # Dependencies
